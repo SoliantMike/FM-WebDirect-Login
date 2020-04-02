@@ -16,6 +16,5 @@ pass: admin
 
 You can change this as needed if hosting on your own server, and use for reference in your own files.
 
-Read more here: <a href="https://www.soliantconsulting.com/blog/">https://www.soliantconsulting.com/blog/</a>
+Read more here: <a href="https://www.soliantconsulting.com/blog/filemaker-webdirect/">https://www.soliantconsulting.com/blog/filemaker-webdirect/</a>
 
-(blog post coming soon)
