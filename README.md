@@ -11,10 +11,12 @@ This file is presented as a learning tool for customizing the login appearance f
 
 The included FileMaker file "Login.fmp12" is used to demonstrate scripting, layouts and security configuration. To use the file, the default username and password is:
 
-user: admin
+user: admin<br />
 pass: admin
 
 You can change this as needed if hosting on your own server, and use for reference in your own files.
+
+The html file is shown for alternate to the php file.
 
 Read more here: <a href="https://www.soliantconsulting.com/blog/filemaker-webdirect/">https://www.soliantconsulting.com/blog/filemaker-webdirect/</a>
 
